@@ -33,8 +33,8 @@ const personalMovieDB = {
     privat:false
 };
 
-const questionOne = prompt('Один из последних просмотреных фильмов?', ''),
-      questionTwo = prompt('На сколько оцените его?', ''),
+let questionOne = prompt('Один из последних просмотреных фильмов?', ''),
+    questionTwo = prompt('На сколько оцените его?', ''),
       questionOneRepeat = prompt('Один из последних просмотреных фильмов?', ''),
       questionTwoRepeat = prompt('На сколько оцените его?', '');
 
