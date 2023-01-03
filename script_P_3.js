@@ -16,7 +16,6 @@ P.S. Функции вызывать не обязательно*/
 // Код возьмите из предыдущего домашнего задания
 
 let numberOfFilms;
-let genreOfFilms;
 
 function start() {
     numberOfFilms = +prompt('Сколько фильмов вы уже смотрели?', '');
